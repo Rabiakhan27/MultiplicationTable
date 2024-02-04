@@ -1,0 +1,47 @@
+
+h1 {
+    text-align: center;
+    color: palevioletred;
+    background-color: black;
+    text-shadow: 2px 2px 1px white;
+}
+
+.pink { 
+    background-color: palevioletred ; 
+}
+.skyblue{
+    background-color: lightblue ;
+}
+.orange{
+    background-color: orange;
+}
+.purple{
+    background-color: purple ;
+}
+.lightgreen{
+    background-color: lightgreen;
+}
+.blue{
+    background-color: blue;
+    
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.darkgreen{
+    background-color: darkgreen;
+}
+.mustard{
+    background-color: burlywood;
+}
+.cyan{
+    background-color: cyan;
+}
+.brown{
+    background-color: chocolate;
+}
+
+
